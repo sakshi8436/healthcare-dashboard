@@ -33,7 +33,7 @@ st.divider()
 # LOAD DATASET
 # -------------------------------
 
-df = pd.read_csv("patients - patients.csv")
+df = pd.read_csv("patients - patients(1).csv")
 
 # -------------------------------
 # DATA CLEANING
